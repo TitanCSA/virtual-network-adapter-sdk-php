@@ -1,5 +1,11 @@
 # Virtual-Network-Adapter-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use Virtual-Network-Adapter-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/virtual-network-adapter-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
